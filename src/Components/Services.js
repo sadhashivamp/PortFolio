@@ -13,8 +13,8 @@ const Services = () => {
 
             <div className="text">Web Developing</div>
             <p>
-              Lorem ipsum dolor sit amet consectetual, adipisicicng elit. Rem
-              quiit sunt, quasi quo illo
+              Strong in design and integration with intuitive problem-solving
+              skills. Proficient in Frontend technologies.
             </p>
           </div>
         </div>
@@ -23,8 +23,8 @@ const Services = () => {
             <ImMobile size="40px" color="black" />
             <div className="text">App Developing</div>
             <p>
-              Lorem ipsum dolor sit amet consectetual, adipisicicng elit. Rem
-              quiit sunt, quasi quo illo
+              Strong in design and integration with intuitive problem-solving
+              skills. Proficient in Frontend technologies.
             </p>
           </div>
         </div>
