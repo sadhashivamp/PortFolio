@@ -17,13 +17,13 @@ const Footer = () => {
           performance rate.
         </p>
         <div className="social__links">
-          <a href="facebook">
+          <a href="https://www.facebook.com/sadhashivampendem">
             <FaFacebookSquare className="fac" size="6%" />
           </a>
-          <a href="linkedin">
+          <a href="https://www.linkedin.com/in/sadha-shivam-pendem-673797146/">
             <BsLinkedin className="link" size="6%" />
           </a>
-          <a href="git">
+          <a href="https://github.com/sadhashivamp">
             <BsGithub className="git" size="6%" />
           </a>
           <a href="twitter">
@@ -44,8 +44,7 @@ const Footer = () => {
         <br />
         <a href="#projects">Projects</a>
         <br />
-        <a href="#experience">Experience</a>
-        <br />
+
         <a href="#contact">Contact</a>
         <br />
       </div>

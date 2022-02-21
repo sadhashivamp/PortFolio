@@ -13,7 +13,9 @@ const Home = () => {
             </div>
           </div>
           <div>
-            <button className="home-button">Hire Me</button>{" "}
+            <a href="hire">
+              <button className="home-button">Hire Me</button>
+            </a>
           </div>
         </div>
       </section>

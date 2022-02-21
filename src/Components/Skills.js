@@ -1,5 +1,5 @@
 import React from "react";
-import SadhaSk1 from "../Images/SadhaSk1.jpg";
+import SadhaSk1 from "../Images/SadhaSk1.png";
 
 const Skills = () => {
   return (

@@ -1,5 +1,5 @@
 import React from "react";
-import Sadha2 from "../Images/Sadha2.png";
+import Sadha21 from "../Images/Sadha21.png";
 import { BsArrowBarRight } from "react-icons/bs";
 
 const AboutMe = () => {
@@ -7,7 +7,7 @@ const AboutMe = () => {
     <div className="about" id="about">
       <h2 className="title">About Me</h2>
       <div className="row1">
-        <img className="row1-img" src={Sadha2} alt="sadha" />
+        <img className="row1-img" src={Sadha21} alt="sadha" />
 
         <div className="row1-col2">
           <h1>I'am Sadha Shivam</h1>
